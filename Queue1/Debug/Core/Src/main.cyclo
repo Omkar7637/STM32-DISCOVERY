@@ -1,0 +1,9 @@
+../Core/Src/main.c:63:6:vQueueSenderTask	1
+../Core/Src/main.c:84:6:vQueueReceiverTask	2
+../Core/Src/main.c:102:5:main	3
+../Core/Src/main.c:183:6:SystemClock_Config	3
+../Core/Src/main.c:230:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:263:13:MX_GPIO_Init	1
+../Core/Src/main.c:282:6:StartDefaultTask	1
+../Core/Src/main.c:301:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:318:6:Error_Handler	1

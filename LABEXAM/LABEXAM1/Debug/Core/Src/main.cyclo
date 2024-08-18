@@ -1,0 +1,10 @@
+../Core/Src/main.c:62:6:vledblinkTask1	1
+../Core/Src/main.c:73:6:varrayinptTask2	2
+../Core/Src/main.c:83:6:varrayreciveTask3	5
+../Core/Src/main.c:103:6:vrankTask4	8
+../Core/Src/main.c:153:5:main	5
+../Core/Src/main.c:249:6:SystemClock_Config	3
+../Core/Src/main.c:296:13:MX_GPIO_Init	1
+../Core/Src/main.c:330:6:StartDefaultTask	1
+../Core/Src/main.c:349:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:366:6:Error_Handler	1
